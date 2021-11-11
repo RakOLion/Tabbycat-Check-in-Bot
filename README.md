@@ -1,5 +1,5 @@
 # Tabbycat-Check-in-Bot
-Discord Bot which interfaces with the Tabbycat API to automatically check-in debaters and adjudicators 
+Discord bot which interfaces with the Tabbycat API to automatically check-in debaters and adjudicator.
 
 ## Installation
 1. Download the files for the project.

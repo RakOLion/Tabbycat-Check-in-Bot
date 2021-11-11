@@ -1,7 +1,7 @@
 # Tabbycat-Check-in-Bot
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE.md)
 
-Discord bot which interfaces with the Tabbycat API to automatically check-in debaters and adjudicator.
+Discord bot which interfaces with the Tabbycat API to automatically check-in debaters and adjudicators.
 
 ## Installation
 1. Download the files for the project.

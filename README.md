@@ -14,4 +14,4 @@ Discord bot which interfaces with the Tabbycat API to automatically check-in deb
 Get started with the ```+help``` command.
 
 ## License
-See the license [here](LISENCE.md).
+See the license [here](LICENSE.md).

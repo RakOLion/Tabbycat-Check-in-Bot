@@ -1,4 +1,5 @@
 #Automatic Checkin-Bot using Tabbycat API
+#Code is probably many times longer than it needs to be 
 
 import os
 import discord 
